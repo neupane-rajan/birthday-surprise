@@ -126,7 +126,7 @@ function MusicPlayer() {
     try {
       await a.play();
     } catch {
-      // Autoplay may be blocked; user can use native controls fallback.
+     
     }
   };
 
